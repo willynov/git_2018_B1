@@ -13,3 +13,7 @@ a {
 a:hover {
   color: blue;
 }
+
+a:visited {
+  color: navy;
+}
