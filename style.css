@@ -9,3 +9,7 @@ p {
 a {
   color: cyan;
 }
+
+a:hover {
+  color: blue;
+}
